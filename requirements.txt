@@ -1,0 +1,7 @@
+Django
+django-rest-framework
+requests
+beautifulsoup4
+scrapy
+psycopg2-binary
+python-dotenv
